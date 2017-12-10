@@ -15,7 +15,7 @@
  ```
 
 
-## Approach
+## How to Use
 
 ![](images/Screen%20Shot%202017-11-06%20at%2009.48.39.png)
 
